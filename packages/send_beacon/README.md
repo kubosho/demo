@@ -24,6 +24,9 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | Yes | Yes | Yes |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
+| iOS 15.5 | Mobile | Safari | 15.5 | No | Yes | No |
+| iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | Yes | No |
+| iOS 15.5 | Mobile | WKWebView | 15.5 | No | Yes | No |
 
 ### Fetch
 
@@ -35,6 +38,9 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | No |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
+| iOS 15.5 | Mobile | Safari | 15.5 | No | No | No |
+| iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | No | No |
+| iOS 15.5 | Mobile | WKWebView | 15.5 | No | No | No |
 
 ### Fetch + Keep-Alive
 
@@ -46,6 +52,9 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
+| iOS 15.5 | Mobile | Safari | 15.5 | No | Yes | No |
+| iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | Yes | No |
+| iOS 15.5 | Mobile | WKWebView | 15.5 | No | Yes | No |
 
 ### Async XHR
 
@@ -57,6 +66,9 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
+| iOS 15.5 | Mobile | Safari | 15.5 | No | No | No |
+| iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | No | No |
+| iOS 15.5 | Mobile | WKWebView | 15.5 | No | No | No |
 
 ### Sync XHR
 
@@ -68,6 +80,9 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
+| iOS 15.5 | Mobile | Safari | 15.5 | No | No | No |
+| iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | No | No |
+| iOS 15.5 | Mobile | WKWebView | 15.5 | No | No | No |
 
 ### localStorage
 
@@ -79,3 +94,5 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | Yes | Yes | Yes |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
+| iOS 15.5 | Mobile | Safari | 15.5 | No | Yes | Yes |
+| iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | Yes | Yes |
