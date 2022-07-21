@@ -22,6 +22,8 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Edge | 103.0.1264.62 | Yes | Yes | Yes |
 | macOS 12.4 | Desktop | Safari | 15.5 (17613.2.7.1.8) | No | Yes | No |
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | Yes | Yes | Yes |
+| Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
+| Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
 
 ### Fetch
 
@@ -31,6 +33,8 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Edge | 103.0.1264.62 | Yes | Yes | Yes |
 | macOS 12.4 | Desktop | Safari | 15.5 (17613.2.7.1.8) | No | No | No |
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
+| Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | No |
+| Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
 
 ### Fetch + Keep-Alive
 
@@ -40,6 +44,8 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Edge | 103.0.1264.62 | Yes | Yes | Yes |
 | macOS 12.4 | Desktop | Safari | 15.5 (17613.2.7.1.8) | No | Yes | Yes |
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
+| Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
+| Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
 
 ### Async XHR
 
@@ -49,6 +55,8 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Edge | 103.0.1264.62 | Yes | Yes | Yes |
 | macOS 12.4 | Desktop | Safari | 15.5 (17613.2.7.1.8) | No | No | No |
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
+| Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
+| Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
 
 ### Sync XHR
 
@@ -58,6 +66,8 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Edge | 103.0.1264.62 | Yes | Yes | Yes |
 | macOS 12.4 | Desktop | Safari | 15.5 (17613.2.7.1.8) | No | No | No |
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
+| Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
+| Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
 
 ### localStorage
 
@@ -67,3 +77,5 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Edge | 103.0.1264.62 | Yes | Yes | Yes |
 | macOS 12.4 | Desktop | Safari | 15.5 (17613.2.7.1.8) | No | Yes | No |
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | Yes | Yes | Yes |
+| Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
+| Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
