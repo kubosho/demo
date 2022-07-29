@@ -24,6 +24,10 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | Yes | Yes | Yes |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
+| iOS 13.7 | Mobile | Safari | 13.1.2 | No | Yes | No |
+| iOS 13.7 | Mobile | SFSafariViewController | 13.1.2 | No | Yes | No |
+| iOS 14.5 | Mobile | Safari | 14.1 | No | Yes | Yes |
+| iOS 14.5 | Mobile | SFSafariViewController | 14.1 | No | Yes | No |
 | iOS 15.5 | Mobile | Safari | 15.5 | No | Yes | No |
 | iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | Yes | No |
 | iOS 15.5 | Mobile | WKWebView | 15.5 | No | Yes | No |
@@ -38,6 +42,10 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | No |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
+| iOS 13.7 | Mobile | Safari | 13.1.2 | No | No | No |
+| iOS 13.7 | Mobile | SFSafariViewController | 13.1.2 | No | Yes | No |
+| iOS 14.5 | Mobile | Safari | 14.1 | No | No | No |
+| iOS 14.5 | Mobile | SFSafariViewController | 14.1 | No | Yes | No |
 | iOS 15.5 | Mobile | Safari | 15.5 | No | No | No |
 | iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | No | No |
 | iOS 15.5 | Mobile | WKWebView | 15.5 | No | No | No |
@@ -52,6 +60,10 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
+| iOS 13.7 | Mobile | Safari | 13.1.2 | No | No | No |
+| iOS 13.7 | Mobile | SFSafariViewController | 13.1.2 | No | No | No |
+| iOS 14.5 | Mobile | Safari | 14.1 | No | Yes | Yes |
+| iOS 14.5 | Mobile | SFSafariViewController | 14.1 | No | Yes | No |
 | iOS 15.5 | Mobile | Safari | 15.5 | No | Yes | No |
 | iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | Yes | No |
 | iOS 15.5 | Mobile | WKWebView | 15.5 | No | Yes | No |
@@ -66,6 +78,10 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
+| iOS 13.7 | Mobile | Safari | 13.1.2 | No | No | No |
+| iOS 13.7 | Mobile | SFSafariViewController | 13.1.2 | No | No | No |
+| iOS 14.5 | Mobile | Safari | 14.1 | No | Yes | No |
+| iOS 14.5 | Mobile | SFSafariViewController | 14.1 | No | No | No |
 | iOS 15.5 | Mobile | Safari | 15.5 | No | No | No |
 | iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | No | No |
 | iOS 15.5 | Mobile | WKWebView | 15.5 | No | No | No |
@@ -80,6 +96,10 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | No | No | No |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | No | No |
+| iOS 13.7 | Mobile | Safari | 13.1.2 | No | No | No |
+| iOS 13.7 | Mobile | SFSafariViewController | 13.1.2 | No | No | No |
+| iOS 14.5 | Mobile | Safari | 14.1 | No | No | No |
+| iOS 14.5 | Mobile | SFSafariViewController | 14.1 | No | No | No |
 | iOS 15.5 | Mobile | Safari | 15.5 | No | No | No |
 | iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | No | No |
 | iOS 15.5 | Mobile | WKWebView | 15.5 | No | No | No |
@@ -94,5 +114,8 @@ node ./src/origin/launch_server.mjs
 | macOS 12.4 | Desktop | Firefox | 102.0.1 | Yes | Yes | Yes |
 | Android 12 | Mobile | Chrome | 103.0.5060.71 | Yes | Yes | Yes |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | Yes | Yes | Yes |
+| iOS 13.7 | Mobile | Safari | 13.1.2 | No | Yes | Yes |
+| iOS 14.5 | Mobile | Safari | 14.1 | No | Yes | Yes |
+| iOS 14.5 | Mobile | SFSafariViewController | 14.1 | No | Yes | Yes |
 | iOS 15.5 | Mobile | Safari | 15.5 | No | Yes | Yes |
 | iOS 15.5 | Mobile | SFSafariViewController | 15.5 | No | Yes | Yes |
