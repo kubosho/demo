@@ -120,3 +120,4 @@ node ./src/origin/launch_server.mjs
 | iOS 14.5 | Mobile | SFSafariViewController | 14.1 | - | ✅ | ✅ |
 | iOS 15.5 | Mobile | Safari | 15.5 | - | ✅ | ✅ |
 | iOS 15.5 | Mobile | SFSafariViewController | 15.5 | - | ✅ | ✅ |
+| iOS 15.5 | Mobile | WKWebView | 15.5 | - | ✅ | ✅ |
