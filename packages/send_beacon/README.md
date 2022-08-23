@@ -101,13 +101,13 @@ The demo page can be viewed by accessing `http://localhost:9000/` in browser.
 | Android 12 | Mobile | Chrome | 104.0.5112.97 | - | ✅ | - |
 | Android 13 | Mobile | WebView | 101.0.4951.74 | - | - | - |
 | iOS 13.7 | Mobile | Safari | 13.1.2 | - | - | - |
-| iOS 14.5 | Mobile | Safari | 14.1 | - | - | - |
-| iOS 15.5 | Mobile | Safari | 15.5 | - | - | - |
 | iOS 13.7 | Mobile | SFSafariViewController | 13.1.2 | - | - | - |
-| iOS 14.5 | Mobile | SFSafariViewController | 14.1 | - | - | - |
-| iOS 15.5 | Mobile | SFSafariViewController | 15.5 | - | - | - |
 | iOS 13.7 | Mobile | WKWebView | 13.1.2 | - | - | - |
+| iOS 14.5 | Mobile | Safari | 14.1 | - | - | - |
+| iOS 14.5 | Mobile | SFSafariViewController | 14.1 | - | - | - |
 | iOS 14.5 | Mobile | WKWebView | 14.1 | - | - | - |
+| iOS 15.5 | Mobile | Safari | 15.5 | - | - | - |
+| iOS 15.5 | Mobile | SFSafariViewController | 15.5 | - | - | - |
 | iOS 15.5 | Mobile | WKWebView | 15.5 | - | - | - |
 
 ### localStorage
