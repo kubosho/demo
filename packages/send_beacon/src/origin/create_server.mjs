@@ -10,7 +10,7 @@ export function createServer() {
     const month = date.getMonth() + 1;
     const day = date.getDate();
     const hours = date.getHours();
-    const minutes = date.getMinutes();
+    const minutes = `${date.getMinutes()}`.padStart(2, "0");
     const seconds = `${date.getSeconds()}`.padStart(2, "0");
 
     const formattedDate = `${year}.${month}.${day} ${hours}:${minutes}:${seconds}`;
