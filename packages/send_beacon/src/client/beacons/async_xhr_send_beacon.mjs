@@ -6,7 +6,7 @@ export function shimSendBeaconWithXhr({ origin, event, isPersisted }) {
       (isPersisted !== undefined ? `&persisted=${isPersisted}` : "");
     const xhr = new XMLHttpRequest();
 
-    xhr.open("POST", uri, { async });
+    xhr.open("POST", uri, async);
     xhr.onload = resolve;
     xhr.onerror = reject;
     xhr.send();
