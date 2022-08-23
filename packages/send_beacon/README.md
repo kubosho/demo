@@ -5,12 +5,16 @@
 * Node.js
 * Python 3
 
+### Server launch
+
 Run it in the root directory of the `send_beacon` package:
 
 ```
 python -m http.server 9000
 node ./src/origin/launch_server.mjs
 ```
+
+The demo page can be viewed by accessing `http://localhost:9000/` in browser.
 
 ## Compatibility table
 
